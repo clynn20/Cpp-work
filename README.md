@@ -1,1 +1,1 @@
-This file contains the C++ work from OSU cs161 and cs162
+This file contains the C++ work from cs161 and cs162
