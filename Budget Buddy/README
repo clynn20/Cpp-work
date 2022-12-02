@@ -1,0 +1,9 @@
+Budget Buddy
+A easy program to mimic bank account, prompt user login with id and password. User has at most three tries to login.
+If user fails to login in after three tries, program wil quit. If user successfully login to account, the program will display user's name, id and balance. User is given three options to view the account transactions : sort by category, sort by date or sort by dollar amount. User could choose if they want the transactions print to the screen or write into a file. 
+
+Use command Make to compile the program.
+
+Use the below command to run the program:
+    ./program users.txt budgets.txt
+
